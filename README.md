@@ -1,9 +1,9 @@
 <h1 align="center">Hi I'm Piakachu</h1>
 <h3 align="center">EEE Student From Daffodil International University</h3>
 
-- 🔭 I’m currently working on **DIY**
+- 🔭 I’m currently working on **DIY Projects**
 
-- 🌱 I’m currently learning **C++ Python programming**
+- 🌱 I’m currently learning **C++ & Python programming**
 
 - 📫 How to reach me **almahamudabir720@gmail.com**
 
